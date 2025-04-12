@@ -17,3 +17,4 @@ let y = "rahul" <br>
 
   demo1.innerHTML = x==y
   demo2.innerHTML = x==y
+
