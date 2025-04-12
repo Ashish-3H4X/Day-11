@@ -13,5 +13,12 @@ demo2.innerHTML =` var str = "rahul"; <br>
      demo2.innerHTML = str.charAt(2) <br>
       
      result : --->>> <br>
-${str.charAt(2)}
-     `
+${str.charAt(2)}`
+
+
+// string charCodeAt(0) method
+ demo3.innerHTML= `var str = "rahul"; <br>
+     demo2.innerHTML = str.charCodeAt(2) <br>
+      
+     result : --->>> <br>
+     ${ str.charCodeAt(2)}`
