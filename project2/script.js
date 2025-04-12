@@ -18,7 +18,14 @@ ${str.charAt(2)}`
 
 // string charCodeAt(0) method
  demo3.innerHTML= `var str = "rahul"; <br>
-     demo2.innerHTML = str.charCodeAt(2) <br>
+     demo3.innerHTML = str.charCodeAt(2) <br>
       
      result : --->>> <br>
-     ${ str.charCodeAt(2)}`
+     ${ str.charCodeAt(2)}` 
+
+     // string at ()  method 
+
+     demo4.innerHTML =  `var str = "rahul"; <br>
+     demo4.innerHTML = str.at(3) <br>
+     result : --->>><br>
+${str.at(3)}`
